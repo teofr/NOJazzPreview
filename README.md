@@ -5,7 +5,7 @@ The idea behind this project is to scrape the New Orleans Jazz Fest site and cre
 If all you want is the playlists you can find them here https://open.spotify.com/user/1140253737
 
 #### Disclaimer, 
-this is an error-prone, synchronous script to get the job done. Nothing fancy.
+This is an error-prone, synchronous script to get the job done. Nothing fancy.
 
 ### Configuration
 
@@ -18,11 +18,11 @@ install a web driver for selenium, here are instructions http://selenium-python.
 
 * Create an app on the Spotify Dev Dashboard (https://beta.developer.spotify.com/dashboard/applications)
 
-* You'll need your username (your email), your client ID and your client secret (both found on the)
+* You'll need your username (your email), your client ID and your client secret (both found on the dashboard)
 
 * When you run this, it will show you some instructions and an URL, follow them.
 
-* When the process it's finished, you should have your playlists creates and the following files:
+* When the process is finished, you should have your playlists created and the following files:
 	
 	* not_found.txt: will show you the artists not found on Spotify
 
